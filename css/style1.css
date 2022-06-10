@@ -112,7 +112,7 @@ nav li a{
  border-radius: 14px;
 }
 nav li:hover a{
-color:;
+/* color:; */
 background-color: #fddb0d;
 border-radius: 14px;
 }
